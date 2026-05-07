@@ -5,3 +5,4 @@ The goal is to convert raw transactional data into meaningful business insights 
 
 ## Dashboard Preview
 
+[![Dashboard](dashboard/dashboard.png)](dashboard/ecommerce_dashboard.pbix)
