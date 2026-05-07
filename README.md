@@ -6,3 +6,12 @@ The goal is to convert raw transactional data into meaningful business insights 
 ## Dashboard Preview
 
 [![Dashboard](dashboard/dashboard.png)](dashboard/ecommerce_dashboard.pbix)
+
+## Problem Statement
+
+- Identify revenue trends over time  
+- Analyze top-performing products and countries  
+- Segment customers based on purchasing behavior  
+- Help businesses understand high-value and at-risk customers
+
+  
