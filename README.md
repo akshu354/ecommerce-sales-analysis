@@ -38,7 +38,7 @@ The goal is to convert raw transactional data into meaningful business insights 
 
 ## Architecture
 
-- Data Collection -> Data Cleaning & Preprocessing -> Statistical Analysis -> RFM Analysis -> Power BI dashboard
+- Data Collection -> Data Cleaning & Preprocessing -> Statistical Analysis -> RFM Segmentation -> Power BI dashboard
 
 ## Key Insights
 
