@@ -72,5 +72,3 @@ jupyter notebook notebooks/ecommerce_analysis.ipynb
 Akshat Jain  
 Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization  
 LinkedIn: https://www.linkedin.com/in/akshat-jain-934098250  
-Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
-LinkedIn: https://www.linkedin.com/in/akshat-jain-934098250
